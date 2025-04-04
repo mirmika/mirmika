@@ -2,7 +2,7 @@
 
 I'm **Meryem** — a curious and motivated **Java backend developer in training** with a growing passion for **DevOps** and **microservice architectures**.
 
-I recently completed an intensive **DevOps Bootcamp at Ironhack**, where I gained hands-on experience in building real-world infrastructure, CI/CD pipelines, and container orchestration using tools like Docker, Kubernetes, and Terraform — all under the mentorship of **Diogo Barros**.
+I recently completed an intensive **DevOps Bootcamp at Ironhack**, where I gained hands-on experience in building real-world infrastructure, CI/CD pipelines, and container orchestration using tools like Docker, Kubernetes, and Terraform — all under the mentorship of [Diogo Barros](https://github.com/Pokfinner).
 
 I’m currently self-learning **Spring Boot** to strengthen my backend skills, and building small projects to apply what I’ve learned.  
 Along the way, I’ve developed a strong appreciation for **Clean Code**, and writing software that’s not only functional but also maintainable and elegant.
